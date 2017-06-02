@@ -1,0 +1,5 @@
+# Copyright (c) 2017, Xiphos Systems Corp. All rights reserved.
+#
+# SPDX-License-Identifier: GPL-2.0
+
+${power_id} ccl ${power_port}
