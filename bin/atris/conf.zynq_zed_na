@@ -1,0 +1,15 @@
+# Copyright (c) 2018, Liam Beguin
+#
+# SPDX-License-Identifier: GPL-2.0
+
+console_impl=picocom
+console_baud=115200
+console_dev=/dev/serial/by-id/usb-2012_Cypress_Semiconductor_Cypress-USB2UART-0123456_8201258B1B0D-if00
+
+flash_impl=none
+
+power_impl=pw
+power_port=zynq
+power_id=pw
+
+reset_impl=xsct
